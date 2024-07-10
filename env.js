@@ -1,5 +1,5 @@
 // API地址
-window.routerBase = 'https://sub.niege.us.kg/'
+window.routerBase = 'https://dash.035345.xyz/'
 window.settings = {
   // 站点名称
   title: 'Oracle Sub',
